@@ -1,8 +1,6 @@
-Análise de Dados Covid-19
-
-Alunos: Camila Pacheco e Eduardo Giudice 1-ADS-B
-
-Professor: Fernando Masanori
+<h1>Análise de Dados Covid-19</h1>
+<h3>Alunos: Camila Pacheco e Eduardo Giudice 1-ADS-B</h3>
+<h3>Professor: Fernando Masanori</h3>
 
 
 Esse trabalho tem a finalidade de analisar os dados do Covid-19
