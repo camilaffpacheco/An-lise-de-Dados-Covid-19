@@ -1,1 +1,2 @@
-# An-lise-de-Dados-Covid-19
+Análise de Dados Covid-19
+Alunos: Camila Pacheco e Eduardo Giudice 
