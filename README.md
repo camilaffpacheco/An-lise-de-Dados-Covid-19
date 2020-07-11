@@ -18,3 +18,6 @@ Os dados são do dia 30/06/2020
   <li>Casos por Sexo em São José dos Campos</li>
   <li>As 5 idades com mais casos em São José dos Campos</li>
 </ol>
+
+
+Esse trabalho foi feito com base no <a href="https://github.com/fmasanori/CursoPyLadiesSP/blob/master/OpendataSUS%20SRAG%202020.ipynb">CursoPyLadiesSP</a>
