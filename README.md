@@ -2,11 +2,8 @@
 <h3>Alunos: Camila Pacheco e Eduardo Giudice 1-ADS-B</h3>
 <h3>Professor: Fernando Masanori</h3>
 
-
-Esse trabalho tem a finalidade de analisar os dados do Covid-19
-
-Os dados do estudo estão presentes no https://opendatasus.saude.gov.br/dataset/bd-srag-2020
-
+<h5>Esse trabalho tem a finalidade de analisar os dados do Covid-19</h5>
+Os dados do estudo estão presentes no <a href="https://opendatasus.saude.gov.br/dataset/bd-srag-2020">openDataSUS</a>
 Os dados são do dia 30/06/2020
 
 
